@@ -31,7 +31,7 @@ public class Bai01 {
 		System.out.println("Trạng thái: "+trangThai);
 		System.out.println("Đánh giá: "+ danhGia);
 		System.out.println("Nhóm sản phẩm: "+ nhom);
-		
+		System.out.println("Tuaasn");
 		
 		
 
